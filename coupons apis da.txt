@@ -1,0 +1,21 @@
+Data Yuge Coupons api 
+
+api -  API Key: RTlgWdMUxC8F5qtHmdj5YJC6M4A5rzOEkmA 
+
+doc- https://price-api.datayuge.com/docs/#coupons-amp-deals-api-new
+
+
+paytm 
+
+Test Merchant ID
+drjZrB18514988194295
+Test Merchant Key
+E@sU8USKI%v6Ov@H
+Website
+WEBSTAGING
+Industry Type
+Retail
+Channel ID (For Website)
+WEB
+Channel ID (For Mobile Apps)
+WAP

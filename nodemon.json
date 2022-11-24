@@ -1,0 +1,10 @@
+{
+  "verbose": true,
+  "debug": true,
+  "exec": "node index.js",
+  "watch": [
+    "./src/**/*.js"
+  ],
+  "ext": "js",
+  "inspect": true
+}

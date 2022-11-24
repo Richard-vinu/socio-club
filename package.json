@@ -1,0 +1,42 @@
+{
+    "name": "socioclub",
+    "version": "1.0.0",
+    "description": "APIs for socioClub APP",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "dotenv -e .env nodemon --config nodemon.json",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/syedareehaquasar/SocioCLub.git"
+    },
+    "author": "Reeha",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/syedareehaquasar/SocioCLub/issues"
+    },
+    "homepage": "https://github.com/syedareehaquasar/SocioCLub#readme",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^6.1.4",
+        "node-gyp": "^8.4.1",
+        "nodemon": "^2.0.15",
+        "socket.io": "^2.4.1",
+        "validator": "^13.7.0",
+        "dotenv": "^10.0.0"
+    },
+    "devDependencies": {
+        "dotenv": "^10.0.0"
+    },
+    "engines": {
+        "node": "14.17.3",
+        "npm": "6.14.13"
+    }
+}
